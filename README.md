@@ -1,4 +1,4 @@
-تمام يا محمد، ده مثال لملف README.md تقدر تستخدمه لرفع مشروع الـ Excel Dashboard على GitHub بشكل احتراف
+
 
 # **Digital Wallet Transaction Dashboard** 
 
